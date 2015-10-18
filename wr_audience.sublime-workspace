@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"session_stuff"
+			],
+			[
+				"pos",
+				"posElement"
+			],
+			[
+				"elemen",
+				"posElement"
+			],
+			[
+				"element",
+				"elementHeight"
+			],
+			[
+				"eleme",
+				"elementHeight"
+			],
+			[
+				"re",
+				"relativeElement"
+			],
+			[
+				"set",
+				"setSticky"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"wi",
+				"withDefaultAddress"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"br",
+				"browser"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"text-",
+				"text-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"text",
+				"text-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"padding",
+				"padding-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pu",
+				"push_str Function (string.rs) : pub fn push_str(&mut self, string: &str)"
+			],
+			[
+				"to",
+				"to_string"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"Re",
+				"Result  Type (error.rs) : pub type Result<T> = result::Result<T, Error>"
+			],
+			[
+				"R",
+				"Read     Trait (mod.rs) : pub trait Read {                             "
+			],
+			[
+				"f",
+				"fn	fn …() { … }"
+			],
+			[
+				"article_meta",
+				"article_meta_style_scripts"
+			],
+			[
+				"artile",
+				"article-meta"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_",
+				"wp_enqueue_script"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_style"
+			],
+			[
+				"jq",
+				"jquery_for_post"
+			],
+			[
+				"um",
+				"umTemplateURL"
+			],
+			[
+				"function",
+				"function_exists"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 231.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"hex",
+				"Hex Viewer: Generate Hash"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git: st",
+				"Git: Status"
+			],
+			[
+				"rust",
+				"Rust Code Formatter: Format Selection"
+			],
+			[
+				"markm",
+				"Markmon launch"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jared/projects/wr_audience"
+	],
+	"file_history":
+	[
+		"/home/jared/projects/mini2/php_mvc.sublime-project",
+		"/home/jared/projects/Web-Radio-Docs/readme.md",
+		"/home/jared/Downloads/Untitled Diagram(3).svg",
+		"/home/jared/Downloads/Untitled Diagram(2).svg",
+		"/home/jared/school/c259/c259_lab07_part2.txt",
+		"/home/jared/src/racket-6.2.1/src/README",
+		"/home/jared/projects/mini2/README.md",
+		"/home/jared/projects/mini2/Mini/etc/db_config_example.php",
+		"/home/jared/projects/mini2/Mini/etc/db_config.php",
+		"/home/jared/projects/mini2/.gitignore",
+		"/home/jared/projects/mini2/vendor/slim/slim/Slim/Slim.php",
+		"/home/jared/projects/mini2/Mini/_vagrant/Vagrantfile",
+		"/home/jared/school/c259/lab08/Java_ETL/CodeSamples.txt",
+		"/home/jared/projects/mini2/Mini/view/base/_base.twig",
+		"/home/jared/projects/mini2/Mini/view/not_secure.twig",
+		"/home/jared/projects/mini2/public/phpinfo.php",
+		"/home/jared/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/jared/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/jared/projects/mini2/Mini/view/base/about.twig",
+		"/home/jared/projects/mini2/Mini/view/base/index.twig",
+		"/home/jared/projects/mini2/Mini/view/admin/release.twig",
+		"/home/jared/projects/mini2/Mini/view/admin/admin.index.twig",
+		"/home/jared/.config/obs-studio/logs/2015-09-26 02-25-18.txt",
+		"/home/jared/projects/mini2/Mini/view/base/release.twig",
+		"/home/jared/projects/mini2/Mini/view/release.twig",
+		"/home/jared/projects/mini2/Mini/view/admin.index.twig",
+		"/home/jared/projects/mini2/Mini/view/_admin.base.twig",
+		"/home/jared/projects/mini2/public/css/style.css",
+		"/home/jared/projects/mini2/Mini/view/songs.edit.twig",
+		"/home/jared/projects/mini2/Mini/view/_base.twig",
+		"/home/jared/projects/mini2/Mini/view/songs.twig",
+		"/home/jared/projects/mini2/Mini/view/nav.twig",
+		"/home/jared/school/c199/js/sha512.js",
+		"/home/jared/school/c199/scripts/php/psl-config.php",
+		"/home/jared/school/c199/scripts/php/process_login.php",
+		"/home/jared/projects/go/src/github.com/jrods/mvc/mvc.go",
+		"/home/jared/apps/nginx/conf/nginx.conf",
+		"/home/jared/projects/mini2/Mini/view/index.twig",
+		"/home/jared/projects/mini2/Mini/view/about.twig",
+		"/home/jared/projects/mini2/public/scss/modules/_colors.scss",
+		"/home/jared/Downloads/limit-post-titles/readme.txt",
+		"/home/jared/.themes/index.theme",
+		"/home/jared/.themes/gtk-2.0/gtkrc",
+		"/home/jared/src/ncmpcpp-0.6.7/INSTALL",
+		"/home/jared/src/ncmpy/INSTALL",
+		"/home/jared/src/ncmpy/README",
+		"/home/jared/src/ncmpcpp-0.6.7/NEWS",
+		"/home/jared/apps/ncmpcpp-0.6.7/INSTALL",
+		"/home/jared/.ncmpcpp/error.log",
+		"/home/jared/.mpd/mpd.conf",
+		"/home/jared/.ncmpcpp/config",
+		"/home/jared/.mpd/state",
+		"/home/jared/.mpd/log",
+		"/home/jared/projects/homepage/homepage.sublime-project",
+		"/home/jared/projects/gameboyz/wp-config-sample.php",
+		"/home/jared/projects/gameboyz/wp-settings.php",
+		"/home/jared/projects/gameboyz/wp-blog-header.php",
+		"/home/jared/projects/gameboyz/index.php",
+		"/home/jared/projects/homepage/public/js/lib/sticky-element-0.2.js",
+		"/home/jared/projects/homepage/public/js/lib/jquery-scrolltofixed-min.js",
+		"/home/jared/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/jared/projects/gameboyz/wp-content/plugins/akismet/readme.txt",
+		"/mnt/Extra/LinuxSteamLibrary/steamapps/common/Counter-Strike Global Offensive/csgo/cache/DownloadCache.db",
+		"/mnt/Extra/LinuxSteamLibrary/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/config.cfg",
+		"/home/jared/apps/ncmpy/share/ncmpy/ncmpy.conf.example",
+		"/home/jared/.screenlets/Impulse/README",
+		"/home/jared/Music/Whispa/◈ S V B M Δ R I N E x D E Δ N ◈/Whispa - ◈ S V B M Δ R I N E x D E Δ N ◈ - SPECIAL THANKS.txt",
+		"/home/jared/school/c199/scripts/php/shoppingCart.php",
+		"/home/jared/Sync/corrected_jared_smith_evbase_assessment.txt",
+		"/mnt/Extra/LinuxSteamLibrary/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/bhop.cfg",
+		"/home/jared/Music/Whispa/◈ S V B M Δ R I N E x D E Δ N ◈/Whispa - ◈ S V B M Δ R I N E x D E Δ N ◈ - CREDITS.txt",
+		"/home/jared/school/c199/index.php",
+		"/home/jared/evbase_assessment",
+		"/home/jared/.gimp-2.8/themes/Dark Orange/imagerc",
+		"/home/jared/.cache/.fr-cuMKJh/Readme.txt",
+		"/home/jared/Downloads/LinuxNoEditor/Manifest_NonUFSFiles.txt",
+		"/home/jared/projects/homepage/public/lib/browser_ua.php",
+		"/home/jared/apps/nginx/logs/error.log",
+		"/home/jared/apps/nginx/logs/access.log",
+		"/home/jared/.drirc",
+		"/home/jared/projects/glfw_test/src/core/mod.rs",
+		"/home/jared/projects/glfw_test/src/main.rs",
+		"/home/jared/qjackctl.log",
+		"/home/jared/brasero-session.log",
+		"/home/jared/projects/homepage/public/parallax.html",
+		"/home/jared/Downloads/GpuTest_Linux_x64_0.7.0/README.txt",
+		"/home/jared/.cache/.fr-luIN8x/Index/Document.iwa",
+		"/home/jared/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jared/.cache/.fr-VtWpZi/Index/Document.iwa",
+		"/home/jared/bitwig-studio-jvm-crash.log",
+		"/home/jared/noir_edit4",
+		"/home/jared/noir_edit3",
+		"/home/jared/noir_edit2",
+		"/home/jared/Documents/Untitled.bmp",
+		"/home/jared/Documents/Untitled",
+		"/home/jared/Documents/blakerino",
+		"/home/jared/blake_edit.raw",
+		"/home/jared/blake_edit2",
+		"/home/jared/blake_edit2.raw",
+		"/home/jared/blakerino_edit.raw",
+		"/home/jared/Documents/blakerino.bmp",
+		"/home/jared/Documents/blakerino.tiff",
+		"/home/jared/apps/nginx/var/run/nginx.pid",
+		"/home/jared/apps/rust/README.md",
+		"/home/jared/apps/rust/rust-installer-version",
+		"/home/jared/projects/glfw_test/Cargo.toml",
+		"/home/jared/projects/glfw_test/src/core/window.rs",
+		"/home/jared/projects/temp/README.md",
+		"/home/jared/test.js",
+		"/home/jared/apps/go/src/crypto/crypto.go",
+		"/home/jared/npm-debug.log",
+		"/home/jared/Downloads/php_browscap.ini",
+		"/home/jared/projects/homepage/README.org",
+		"/home/jared/projects/homepage/public/css/style.css",
+		"/home/jared/apps/node/bin/npm",
+		"/home/jared/.cache/.fr-YNpLNL/node-v0.12.7/README.md",
+		"/home/jared/projects/AudioTutorial/CMakeLists.txt",
+		"/home/jared/apps/firefox/chrome.manifest",
+		"/home/jared/Downloads/genericons/README.md",
+		"/home/jared/apps/syncthing/etc/linux-runit/README.md",
+		"/home/jared/apps/syncthing/etc/linux-systemd/system/syncthing@.service",
+		"/home/jared/apps/syncthing/etc/linux-systemd/user/syncthing.service",
+		"/home/jared/Downloads/genericons/source/fontcustom.yml",
+		"/home/jared/Downloads/genericons/source/fontcustom-templates/genericons.css",
+		"/home/jared/Downloads/genericons/LICENSE.txt",
+		"/home/jared/Downloads/Fira-master/LICENSE",
+		"/home/jared/Downloads/source-sans-pro-2.010R-ro-1.065R-it/LICENSE.txt",
+		"/home/jared/Downloads/source-sans-pro-2.010R-ro-1.065R-it/bower.json"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"$app",
+			"commitSticky",
+			"setSticky",
+			"<th>",
+			"th",
+			"Capstone%202015_files"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$slim",
+			"makeSticky",
+			"commitSticky",
+			"<ul>",
+			"capstone2015"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.xdebug":
+	{
+		"height": 239.0
+	},
+	"pinned_build_system": "",
+	"project": "wr_audience.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

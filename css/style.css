@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+}
+
+body {
+  font-size: 1rem;
+  background: #fff;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "Fira Sans";
+}
+
+h1 {
+  margin: 0 0 1rem 0;
+}
+
+p {
+  font-size: inherit;
+}
+
+/* Main
+------------------ */
+#wrap {
+	width: 100%;
+  height: 100%;
+}
+
+#main {
+	margin: 0 auto;
+	width: 1000px;
+}
